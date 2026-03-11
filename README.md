@@ -1,9 +1,9 @@
-# Shabbir Kataleri - AI & ML Developer Portfolio 🚀
+# Shabbir Kataleri - AI & ML Developer Portfolio 
 
 A modern, highly interactive, and visually stunning 3D portfolio website showcasing my skills, projects, and experiences in Artificial Intelligence, Machine Learning, and Blockchain Security.
 
 ## 🌟 Live Demo
-[Add your hosted link here when deployed - e.g. vercel.com]
+https://shabbir-portfolio-omega.vercel.app
 
 ## 🛠️ Built With
 - **React.js** (Frontend UI)
