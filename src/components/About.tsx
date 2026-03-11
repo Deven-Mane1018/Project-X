@@ -6,11 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          I am an Artificial Intelligence and Machine Learning student at Ajeenkya DY Patil University with a 9.47 CGPA. I specialize in building intelligent, real-world systems through machine learning, comprehensive data analysis, and blockchain security. From deep learning predictive models to smart contract fraud detection frameworks, I am passionate about engineering impactful AI-driven solutions.
         </p>
       </div>
     </div>

@@ -45,19 +45,21 @@
   flex-shrink: 0;
   box-sizing: border-box;
   padding: 50px 0;
+  overflow: hidden;
 }
 
 .carousel-content {
   display: flex;
   align-items: center;
-  gap: 60px;
-  width: 100%;
+  gap: 30px;
+  width: 90%;
+  margin: 0 auto;
 }
 
 .carousel-info {
   flex: 1;
   display: flex;
-  gap: 30px;
+  gap: 15px;
   align-items: flex-start;
 }
 

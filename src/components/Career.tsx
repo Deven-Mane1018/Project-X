@@ -15,43 +15,39 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>AI Head (Core Team Member)</h4>
+                <h5>GDG on Campus ADYPU</h5>
               </div>
-              <h3>2020</h3>
+              <h3>Aug 2024 - May 2025</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Expected 10 mos. Pune District, Maharashtra, India.
+              <br />• Conducted sessions on the foundations of machine learning concepts for freshmen.
+              <br />• Implementing hands-on practical of GCP’s Vertex AI with its real-world applications.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Quantum Machine Learning (with IBM Quantum)</h4>
+                <h5>IBM SkillsBuild</h5>
               </div>
-              <h3>2021</h3>
+              <h3>Issued Oct 2024</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Licenses & certifications. Credential ID openHPI.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Smart India Hackathon 2025 Winner</h4>
+                <h5>Hardware Edition</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Recognized for developing innovative hardware solutions at a national level.
             </p>
           </div>
         </div>
